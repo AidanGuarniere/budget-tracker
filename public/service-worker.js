@@ -5,7 +5,6 @@ const FILES_TO_CACHE = [
     '/index.html',
     '/js/index.js',
     '/css/styles.css',
-    './routes/api.js',
 ];
 /* Install the service worker */
 self.addEventListener('install', function (evt) {
