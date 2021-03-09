@@ -83,4 +83,4 @@ function saveRecord(record) {
   budgetObjectStore.add(record);
 }
 
-window.addEventListener('online', uploadTransaction);
+window.addEventListener("online", uploadTransaction);
