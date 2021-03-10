@@ -5,6 +5,7 @@ const FILES_TO_CACHE = [
     '/index.html',
     '/js/index.js',
     '/css/styles.css',
+    '/manifest.json'
 ];
 /* Install the service worker */
 self.addEventListener('install', function (evt) {
