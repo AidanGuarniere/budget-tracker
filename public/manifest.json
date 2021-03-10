@@ -46,8 +46,7 @@
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "orientation": "portrait",
     "display": "standalone",
-    "start_url": "../index.html",
+    "start_url": "./index.html",
     "description": "An app that will document user transactions and adjust the graph to reflect the user's financial history"
 }
